@@ -1,0 +1,1997 @@
+.asp.geshifilter-asp .de1,
+.asp.geshifilter-asp .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.asp.geshifilter-asp {
+    font-family: monospace
+}
+
+.asp.geshifilter-asp .imp {
+    font-weight: 700;
+    color: red
+}
+
+.asp.geshifilter-asp li,
+.asp.geshifilter-asp .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.asp.geshifilter-asp .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.asp.geshifilter-asp .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.asp.geshifilter-asp .kw1 {
+    color: #909;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .kw2 {
+    color: #00f;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .kw3 {
+    color: #da1240
+}
+
+.asp.geshifilter-asp .co1 {
+    color: #13f1de
+}
+
+.asp.geshifilter-asp .co2 {
+    color: #f60
+}
+
+.asp.geshifilter-asp .coMULTI {
+    color: #13f1de
+}
+
+.asp.geshifilter-asp .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .br0 {
+    color: #5bdc5b;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .sy0 {
+    color: #109a10;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .sy1 {
+    color: #000;
+    font-weight: 700
+}
+
+.asp.geshifilter-asp .st0 {
+    color: #c00
+}
+
+.asp.geshifilter-asp .nu0 {
+    color: #dc1414
+}
+
+.asp.geshifilter-asp .me1 {
+    color: #a674b7
+}
+
+.asp.geshifilter-asp .ln-xtra,
+.asp.geshifilter-asp li.ln-xtra,
+.asp.geshifilter-asp div.ln-xtra {
+    background-color: #ffc
+}
+
+.asp.geshifilter-asp span.xtra {
+    display: block
+}
+
+.c.geshifilter-c .de1,
+.c.geshifilter-c .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.c.geshifilter-c {
+    font-family: monospace
+}
+
+.c.geshifilter-c .imp {
+    font-weight: 700;
+    color: red
+}
+
+.c.geshifilter-c li,
+.c.geshifilter-c .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.c.geshifilter-c .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.c.geshifilter-c .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.c.geshifilter-c .kw1 {
+    color: #b1b100
+}
+
+.c.geshifilter-c .kw2 {
+    color: #000;
+    font-weight: 700
+}
+
+.c.geshifilter-c .kw3 {
+    color: #006
+}
+
+.c.geshifilter-c .kw4 {
+    color: #933
+}
+
+.c.geshifilter-c .co1 {
+    color: #666;
+    font-style: italic
+}
+
+.c.geshifilter-c .co2 {
+    color: #393
+}
+
+.c.geshifilter-c .coMULTI {
+    color: gray;
+    font-style: italic
+}
+
+.c.geshifilter-c .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.c.geshifilter-c .es1 {
+    color: #009;
+    font-weight: 700
+}
+
+.c.geshifilter-c .es2 {
+    color: #609;
+    font-weight: 700
+}
+
+.c.geshifilter-c .es3 {
+    color: #609;
+    font-weight: 700
+}
+
+.c.geshifilter-c .es4 {
+    color: #609;
+    font-weight: 700
+}
+
+.c.geshifilter-c .es5 {
+    color: #069;
+    font-weight: 700
+}
+
+.c.geshifilter-c .br0 {
+    color: #090
+}
+
+.c.geshifilter-c .sy0 {
+    color: #393
+}
+
+.c.geshifilter-c .st0 {
+    color: red
+}
+
+.c.geshifilter-c .nu0 {
+    color: #00d
+}
+
+.c.geshifilter-c .nu6 {
+    color: #208080
+}
+
+.c.geshifilter-c .nu8 {
+    color: #208080
+}
+
+.c.geshifilter-c .nu12 {
+    color: #208080
+}
+
+.c.geshifilter-c .nu16 {
+    color: purple
+}
+
+.c.geshifilter-c .nu17 {
+    color: purple
+}
+
+.c.geshifilter-c .nu18 {
+    color: purple
+}
+
+.c.geshifilter-c .nu19 {
+    color: purple
+}
+
+.c.geshifilter-c .me1 {
+    color: #202020
+}
+
+.c.geshifilter-c .me2 {
+    color: #202020
+}
+
+.c.geshifilter-c .ln-xtra,
+.c.geshifilter-c li.ln-xtra,
+.c.geshifilter-c div.ln-xtra {
+    background-color: #ffc
+}
+
+.c.geshifilter-c span.xtra {
+    display: block
+}
+
+.cpp.geshifilter-cpp .de1,
+.cpp.geshifilter-cpp .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.cpp.geshifilter-cpp {
+    font-family: monospace
+}
+
+.cpp.geshifilter-cpp .imp {
+    font-weight: 700;
+    color: red
+}
+
+.cpp.geshifilter-cpp li,
+.cpp.geshifilter-cpp .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.cpp.geshifilter-cpp .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.cpp.geshifilter-cpp .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.cpp.geshifilter-cpp .kw1 {
+    color: #00f
+}
+
+.cpp.geshifilter-cpp .kw2 {
+    color: #00f
+}
+
+.cpp.geshifilter-cpp .kw3 {
+    color: #00d
+}
+
+.cpp.geshifilter-cpp .kw4 {
+    color: #00f
+}
+
+.cpp.geshifilter-cpp .co1 {
+    color: #666
+}
+
+.cpp.geshifilter-cpp .co2 {
+    color: #390
+}
+
+.cpp.geshifilter-cpp .co3 {
+    color: red
+}
+
+.cpp.geshifilter-cpp .co4 {
+    color: red
+}
+
+.cpp.geshifilter-cpp .coMULTI {
+    color: red;
+    font-style: italic
+}
+
+.cpp.geshifilter-cpp .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .es1 {
+    color: #009;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .es2 {
+    color: #609;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .es3 {
+    color: #609;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .es4 {
+    color: #609;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .es5 {
+    color: #069;
+    font-weight: 700
+}
+
+.cpp.geshifilter-cpp .br0 {
+    color: green
+}
+
+.cpp.geshifilter-cpp .sy0 {
+    color: green
+}
+
+.cpp.geshifilter-cpp .sy1 {
+    color: navy
+}
+
+.cpp.geshifilter-cpp .sy2 {
+    color: #000040
+}
+
+.cpp.geshifilter-cpp .sy3 {
+    color: #000040
+}
+
+.cpp.geshifilter-cpp .sy4 {
+    color: teal
+}
+
+.cpp.geshifilter-cpp .st0 {
+    color: red
+}
+
+.cpp.geshifilter-cpp .nu0 {
+    color: #00d
+}
+
+.cpp.geshifilter-cpp .nu6 {
+    color: #208080
+}
+
+.cpp.geshifilter-cpp .nu8 {
+    color: #208080
+}
+
+.cpp.geshifilter-cpp .nu12 {
+    color: #208080
+}
+
+.cpp.geshifilter-cpp .nu16 {
+    color: purple
+}
+
+.cpp.geshifilter-cpp .nu17 {
+    color: purple
+}
+
+.cpp.geshifilter-cpp .nu18 {
+    color: purple
+}
+
+.cpp.geshifilter-cpp .nu19 {
+    color: purple
+}
+
+.cpp.geshifilter-cpp .me1 {
+    color: #078
+}
+
+.cpp.geshifilter-cpp .me2 {
+    color: #078
+}
+
+.cpp.geshifilter-cpp .ln-xtra,
+.cpp.geshifilter-cpp li.ln-xtra,
+.cpp.geshifilter-cpp div.ln-xtra {
+    background-color: #ffc
+}
+
+.cpp.geshifilter-cpp span.xtra {
+    display: block
+}
+
+.csharp.geshifilter-csharp .de1,
+.csharp.geshifilter-csharp .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.csharp.geshifilter-csharp {
+    font-family: monospace
+}
+
+.csharp.geshifilter-csharp .imp {
+    font-weight: 700;
+    color: red
+}
+
+.csharp.geshifilter-csharp li,
+.csharp.geshifilter-csharp .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.csharp.geshifilter-csharp .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.csharp.geshifilter-csharp .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.csharp.geshifilter-csharp .kw1 {
+    color: #0600ff;
+    font-weight: 700
+}
+
+.csharp.geshifilter-csharp .kw2 {
+    color: #ff8000;
+    font-weight: 700
+}
+
+.csharp.geshifilter-csharp .kw3 {
+    color: green
+}
+
+.csharp.geshifilter-csharp .kw4 {
+    color: #66c;
+    font-weight: 700
+}
+
+.csharp.geshifilter-csharp .kw5 {
+    color: #000
+}
+
+.csharp.geshifilter-csharp .co1 {
+    color: teal;
+    font-style: italic
+}
+
+.csharp.geshifilter-csharp .co2 {
+    color: teal
+}
+
+.csharp.geshifilter-csharp .co3 {
+    color: teal
+}
+
+.csharp.geshifilter-csharp .coMULTI {
+    color: teal;
+    font-style: italic
+}
+
+.csharp.geshifilter-csharp .es0 {
+    color: teal;
+    font-weight: 700
+}
+
+.csharp.geshifilter-csharp .es_h {
+    color: teal;
+    font-weight: 700
+}
+
+.csharp.geshifilter-csharp .br0 {
+    color: green
+}
+
+.csharp.geshifilter-csharp .sy0 {
+    color: green
+}
+
+.csharp.geshifilter-csharp .st0 {
+    color: #666
+}
+
+.csharp.geshifilter-csharp .st_h {
+    color: #666
+}
+
+.csharp.geshifilter-csharp .nu0 {
+    color: red
+}
+
+.csharp.geshifilter-csharp .me1 {
+    color: #00f
+}
+
+.csharp.geshifilter-csharp .me2 {
+    color: #00f
+}
+
+.csharp.geshifilter-csharp .ln-xtra,
+.csharp.geshifilter-csharp li.ln-xtra,
+.csharp.geshifilter-csharp div.ln-xtra {
+    background-color: #ffc
+}
+
+.csharp.geshifilter-csharp span.xtra {
+    display: block
+}
+
+.css.geshifilter-css .de1,
+.css.geshifilter-css .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.css.geshifilter-css {
+    font-family: monospace
+}
+
+.css.geshifilter-css .imp {
+    font-weight: 700;
+    color: red
+}
+
+.css.geshifilter-css li,
+.css.geshifilter-css .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.css.geshifilter-css .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.css.geshifilter-css .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.css.geshifilter-css .kw1 {
+    color: #000;
+    font-weight: 700
+}
+
+.css.geshifilter-css .kw2 {
+    color: #933
+}
+
+.css.geshifilter-css .kw3 {
+    color: #9932cc
+}
+
+.css.geshifilter-css .kw4 {
+    color: #dc143c
+}
+
+.css.geshifilter-css .kw5 {
+    color: #f5758f
+}
+
+.css.geshifilter-css .co2 {
+    color: red;
+    font-style: italic
+}
+
+.css.geshifilter-css .coMULTI {
+    color: gray;
+    font-style: italic
+}
+
+.css.geshifilter-css .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.css.geshifilter-css .es2 {
+    color: #009;
+    font-weight: 700
+}
+
+.css.geshifilter-css .br0 {
+    color: #0a0
+}
+
+.css.geshifilter-css .sy0 {
+    color: #0a0
+}
+
+.css.geshifilter-css .st0 {
+    color: red
+}
+
+.css.geshifilter-css .nu0 {
+    color: #c6c
+}
+
+.css.geshifilter-css .re0 {
+    color: #c0c
+}
+
+.css.geshifilter-css .re1 {
+    color: #66f
+}
+
+.css.geshifilter-css .re2 {
+    color: #3f84d9;
+    font-weight: 700
+}
+
+.css.geshifilter-css .re3 {
+    color: #933
+}
+
+.css.geshifilter-css .re4 {
+    color: #444
+}
+
+.css.geshifilter-css .ln-xtra,
+.css.geshifilter-css li.ln-xtra,
+.css.geshifilter-css div.ln-xtra {
+    background-color: #ffc
+}
+
+.css.geshifilter-css span.xtra {
+    display: block
+}
+
+.delphi.geshifilter-delphi .de1,
+.delphi.geshifilter-delphi .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.delphi.geshifilter-delphi {
+    font-family: monospace
+}
+
+.delphi.geshifilter-delphi .imp {
+    font-weight: 700;
+    color: red
+}
+
+.delphi.geshifilter-delphi li,
+.delphi.geshifilter-delphi .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.delphi.geshifilter-delphi .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.delphi.geshifilter-delphi .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.delphi.geshifilter-delphi .kw1 {
+    color: #000;
+    font-weight: 700
+}
+
+.delphi.geshifilter-delphi .kw2 {
+    color: #000;
+    font-weight: 700
+}
+
+.delphi.geshifilter-delphi .kw3 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .kw4 {
+    color: #006;
+    font-weight: 700
+}
+
+.delphi.geshifilter-delphi .co1 {
+    color: gray;
+    font-style: italic
+}
+
+.delphi.geshifilter-delphi .co2 {
+    color: green;
+    font-style: italic
+}
+
+.delphi.geshifilter-delphi .coMULTI {
+    color: gray;
+    font-style: italic
+}
+
+.delphi.geshifilter-delphi .es0 {
+    color: red;
+    font-weight: 700
+}
+
+.delphi.geshifilter-delphi .br0 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .sy0 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .sy1 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .sy2 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .sy3 {
+    color: #006
+}
+
+.delphi.geshifilter-delphi .st0 {
+    color: red
+}
+
+.delphi.geshifilter-delphi .nu0 {
+    color: #00f
+}
+
+.delphi.geshifilter-delphi .me1 {
+    color: #060
+}
+
+.delphi.geshifilter-delphi .re0 {
+    color: #00c
+}
+
+.delphi.geshifilter-delphi .re1 {
+    color: red
+}
+
+.delphi.geshifilter-delphi .ln-xtra,
+.delphi.geshifilter-delphi li.ln-xtra,
+.delphi.geshifilter-delphi div.ln-xtra {
+    background-color: #ffc
+}
+
+.delphi.geshifilter-delphi span.xtra {
+    display: block
+}
+
+.html4strict.geshifilter-html4strict .de1,
+.html4strict.geshifilter-html4strict .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.html4strict.geshifilter-html4strict {
+    font-family: monospace
+}
+
+.html4strict.geshifilter-html4strict .imp {
+    font-weight: 700;
+    color: red
+}
+
+.html4strict.geshifilter-html4strict li,
+.html4strict.geshifilter-html4strict .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.html4strict.geshifilter-html4strict .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.html4strict.geshifilter-html4strict .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.html4strict.geshifilter-html4strict .kw2 {
+    color: #000;
+    font-weight: 700
+}
+
+.html4strict.geshifilter-html4strict .kw3 {
+    color: #006
+}
+
+.html4strict.geshifilter-html4strict .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.html4strict.geshifilter-html4strict .br0 {
+    color: #6c6
+}
+
+.html4strict.geshifilter-html4strict .sy0 {
+    color: #6c6
+}
+
+.html4strict.geshifilter-html4strict .st0 {
+    color: red
+}
+
+.html4strict.geshifilter-html4strict .nu0 {
+    color: #c6c
+}
+
+.html4strict.geshifilter-html4strict .sc-2 {
+    color: #404040
+}
+
+.html4strict.geshifilter-html4strict .sc-1 {
+    color: gray;
+    font-style: italic
+}
+
+.html4strict.geshifilter-html4strict .sc0 {
+    color: #0bd
+}
+
+.html4strict.geshifilter-html4strict .sc1 {
+    color: #db0
+}
+
+.html4strict.geshifilter-html4strict .sc2 {
+    color: #090
+}
+
+.html4strict.geshifilter-html4strict .ln-xtra,
+.html4strict.geshifilter-html4strict li.ln-xtra,
+.html4strict.geshifilter-html4strict div.ln-xtra {
+    background-color: #ffc
+}
+
+.html4strict.geshifilter-html4strict span.xtra {
+    display: block
+}
+
+.html5.geshifilter-html5 .de1,
+.html5.geshifilter-html5 .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.html5.geshifilter-html5 {
+    font-family: monospace
+}
+
+.html5.geshifilter-html5 .imp {
+    font-weight: 700;
+    color: red
+}
+
+.html5.geshifilter-html5 li,
+.html5.geshifilter-html5 .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.html5.geshifilter-html5 .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.html5.geshifilter-html5 .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.html5.geshifilter-html5 .kw2 {
+    color: #000;
+    font-weight: 700
+}
+
+.html5.geshifilter-html5 .kw3 {
+    color: #006
+}
+
+.html5.geshifilter-html5 .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.html5.geshifilter-html5 .br0 {
+    color: #6c6
+}
+
+.html5.geshifilter-html5 .sy0 {
+    color: #6c6
+}
+
+.html5.geshifilter-html5 .st0 {
+    color: red
+}
+
+.html5.geshifilter-html5 .nu0 {
+    color: #c6c
+}
+
+.html5.geshifilter-html5 .sc-2 {
+    color: #404040
+}
+
+.html5.geshifilter-html5 .sc-1 {
+    color: gray;
+    font-style: italic
+}
+
+.html5.geshifilter-html5 .sc0 {
+    color: #0bd
+}
+
+.html5.geshifilter-html5 .sc1 {
+    color: #db0
+}
+
+.html5.geshifilter-html5 .sc2 {
+    color: #090
+}
+
+.html5.geshifilter-html5 .ln-xtra,
+.html5.geshifilter-html5 li.ln-xtra,
+.html5.geshifilter-html5 div.ln-xtra {
+    background-color: #ffc
+}
+
+.html5.geshifilter-html5 span.xtra {
+    display: block
+}
+
+.java.geshifilter-java .de1,
+.java.geshifilter-java .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.java.geshifilter-java {
+    font-family: monospace
+}
+
+.java.geshifilter-java .imp {
+    font-weight: 700;
+    color: red
+}
+
+.java.geshifilter-java li,
+.java.geshifilter-java .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.java.geshifilter-java .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.java.geshifilter-java .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.java.geshifilter-java .kw1 {
+    color: #000;
+    font-weight: 700
+}
+
+.java.geshifilter-java .kw2 {
+    color: #006;
+    font-weight: 700
+}
+
+.java.geshifilter-java .kw3 {
+    color: #039
+}
+
+.java.geshifilter-java .kw4 {
+    color: #006;
+    font-weight: 700
+}
+
+.java.geshifilter-java .co1 {
+    color: #666;
+    font-style: italic
+}
+
+.java.geshifilter-java .co2 {
+    color: #069
+}
+
+.java.geshifilter-java .co3 {
+    color: green;
+    font-style: italic;
+    font-weight: 700
+}
+
+.java.geshifilter-java .coMULTI {
+    color: #666;
+    font-style: italic
+}
+
+.java.geshifilter-java .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.java.geshifilter-java .br0 {
+    color: #090
+}
+
+.java.geshifilter-java .sy0 {
+    color: #393
+}
+
+.java.geshifilter-java .st0 {
+    color: #00f
+}
+
+.java.geshifilter-java .nu0 {
+    color: #c6c
+}
+
+.java.geshifilter-java .me1 {
+    color: #063
+}
+
+.java.geshifilter-java .me2 {
+    color: #063
+}
+
+.java.geshifilter-java .ln-xtra,
+.java.geshifilter-java li.ln-xtra,
+.java.geshifilter-java div.ln-xtra {
+    background-color: #ffc
+}
+
+.java.geshifilter-java span.xtra {
+    display: block
+}
+
+.javascript.geshifilter-javascript .de1,
+.javascript.geshifilter-javascript .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.javascript.geshifilter-javascript {
+    font-family: monospace
+}
+
+.javascript.geshifilter-javascript .imp {
+    font-weight: 700;
+    color: red
+}
+
+.javascript.geshifilter-javascript li,
+.javascript.geshifilter-javascript .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.javascript.geshifilter-javascript .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.javascript.geshifilter-javascript .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.javascript.geshifilter-javascript .kw1 {
+    color: #006;
+    font-weight: 700
+}
+
+.javascript.geshifilter-javascript .kw2 {
+    color: #036;
+    font-weight: 700
+}
+
+.javascript.geshifilter-javascript .kw3 {
+    color: #006
+}
+
+.javascript.geshifilter-javascript .kw5 {
+    color: red
+}
+
+.javascript.geshifilter-javascript .co1 {
+    color: #060;
+    font-style: italic
+}
+
+.javascript.geshifilter-javascript .co2 {
+    color: #096;
+    font-style: italic
+}
+
+.javascript.geshifilter-javascript .coMULTI {
+    color: #060;
+    font-style: italic
+}
+
+.javascript.geshifilter-javascript .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.javascript.geshifilter-javascript .br0 {
+    color: #090
+}
+
+.javascript.geshifilter-javascript .sy0 {
+    color: #393
+}
+
+.javascript.geshifilter-javascript .st0 {
+    color: #36c
+}
+
+.javascript.geshifilter-javascript .nu0 {
+    color: #c00
+}
+
+.javascript.geshifilter-javascript .me1 {
+    color: #606
+}
+
+.javascript.geshifilter-javascript .ln-xtra,
+.javascript.geshifilter-javascript li.ln-xtra,
+.javascript.geshifilter-javascript div.ln-xtra {
+    background-color: #ffc
+}
+
+.javascript.geshifilter-javascript span.xtra {
+    display: block
+}
+
+.mysql.geshifilter-mysql .de1,
+.mysql.geshifilter-mysql .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.mysql.geshifilter-mysql {
+    font-family: monospace
+}
+
+.mysql.geshifilter-mysql .imp {
+    font-weight: 700;
+    color: red
+}
+
+.mysql.geshifilter-mysql li,
+.mysql.geshifilter-mysql .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.mysql.geshifilter-mysql .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.mysql.geshifilter-mysql .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.mysql.geshifilter-mysql .kw1 {
+    color: #909;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw2 {
+    color: #909;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw3 {
+    color: #90f;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw4 {
+    color: #990;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw5 {
+    color: #990;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw6 {
+    color: #f90;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw7 {
+    color: #f90;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw8 {
+    color: #90f;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw9 {
+    color: #90f;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw10 {
+    color: #c09;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw11 {
+    color: #c09;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .kw12 {
+    color: #090
+}
+
+.mysql.geshifilter-mysql .kw13 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw14 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw15 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw16 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw17 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw18 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw19 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw20 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw21 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw22 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw23 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw24 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw25 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw26 {
+    color: #009
+}
+
+.mysql.geshifilter-mysql .kw27 {
+    color: #0c0
+}
+
+.mysql.geshifilter-mysql .coMULTI {
+    color: olive;
+    font-style: italic
+}
+
+.mysql.geshifilter-mysql .co1 {
+    color: gray;
+    font-style: italic
+}
+
+.mysql.geshifilter-mysql .co2 {
+    color: gray;
+    font-style: italic
+}
+
+.mysql.geshifilter-mysql .es0 {
+    color: #004000;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .es1 {
+    color: teal;
+    font-weight: 700
+}
+
+.mysql.geshifilter-mysql .br0 {
+    color: #f0f
+}
+
+.mysql.geshifilter-mysql .sy1 {
+    color: #c09
+}
+
+.mysql.geshifilter-mysql .sy2 {
+    color: #003
+}
+
+.mysql.geshifilter-mysql .st0 {
+    color: green
+}
+
+.mysql.geshifilter-mysql .nu0 {
+    color: teal
+}
+
+.mysql.geshifilter-mysql .ln-xtra,
+.mysql.geshifilter-mysql li.ln-xtra,
+.mysql.geshifilter-mysql div.ln-xtra {
+    background-color: #ffc
+}
+
+.mysql.geshifilter-mysql span.xtra {
+    display: block
+}
+
+.php.geshifilter-php .de1,
+.php.geshifilter-php .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.php.geshifilter-php {
+    font-family: monospace
+}
+
+.php.geshifilter-php .imp {
+    font-weight: 700;
+    color: red
+}
+
+.php.geshifilter-php li,
+.php.geshifilter-php .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.php.geshifilter-php .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.php.geshifilter-php .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.php.geshifilter-php .kw1 {
+    color: #b1b100
+}
+
+.php.geshifilter-php .kw2 {
+    color: #000;
+    font-weight: 700
+}
+
+.php.geshifilter-php .kw3 {
+    color: #900
+}
+
+.php.geshifilter-php .kw4 {
+    color: #090;
+    font-weight: 700
+}
+
+.php.geshifilter-php .co1 {
+    color: #666;
+    font-style: italic
+}
+
+.php.geshifilter-php .co2 {
+    color: #666;
+    font-style: italic
+}
+
+.php.geshifilter-php .co3 {
+    color: #00c;
+    font-style: italic
+}
+
+.php.geshifilter-php .co4 {
+    color: #093;
+    font-style: italic
+}
+
+.php.geshifilter-php .coMULTI {
+    color: #666;
+    font-style: italic
+}
+
+.php.geshifilter-php .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es1 {
+    color: #009;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es2 {
+    color: #609;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es3 {
+    color: #609;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es4 {
+    color: #069;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es5 {
+    color: #069;
+    font-weight: 700;
+    font-style: italic
+}
+
+.php.geshifilter-php .es6 {
+    color: #093;
+    font-weight: 700
+}
+
+.php.geshifilter-php .es_h {
+    color: #009;
+    font-weight: 700
+}
+
+.php.geshifilter-php .br0 {
+    color: #090
+}
+
+.php.geshifilter-php .sy0 {
+    color: #393
+}
+
+.php.geshifilter-php .sy1 {
+    color: #000;
+    font-weight: 700
+}
+
+.php.geshifilter-php .st0 {
+    color: #00f
+}
+
+.php.geshifilter-php .st_h {
+    color: #00f
+}
+
+.php.geshifilter-php .nu0 {
+    color: #c6c
+}
+
+.php.geshifilter-php .nu8 {
+    color: #208080
+}
+
+.php.geshifilter-php .nu12 {
+    color: #208080
+}
+
+.php.geshifilter-php .nu19 {
+    color: purple
+}
+
+.php.geshifilter-php .me1 {
+    color: #004000
+}
+
+.php.geshifilter-php .me2 {
+    color: #004000
+}
+
+.php.geshifilter-php .re0 {
+    color: #008
+}
+
+.php.geshifilter-php .ln-xtra,
+.php.geshifilter-php li.ln-xtra,
+.php.geshifilter-php div.ln-xtra {
+    background-color: #ffc
+}
+
+.php.geshifilter-php span.xtra {
+    display: block
+}
+
+.python.geshifilter-python .de1,
+.python.geshifilter-python .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.python.geshifilter-python {
+    font-family: monospace
+}
+
+.python.geshifilter-python .imp {
+    font-weight: 700;
+    color: red
+}
+
+.python.geshifilter-python li,
+.python.geshifilter-python .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.python.geshifilter-python .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.python.geshifilter-python .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.python.geshifilter-python .kw1 {
+    color: #f70;
+    font-weight: 700
+}
+
+.python.geshifilter-python .kw2 {
+    color: green
+}
+
+.python.geshifilter-python .kw3 {
+    color: #dc143c
+}
+
+.python.geshifilter-python .kw4 {
+    color: #0000cd
+}
+
+.python.geshifilter-python .co1 {
+    color: gray;
+    font-style: italic
+}
+
+.python.geshifilter-python .coMULTI {
+    color: gray;
+    font-style: italic
+}
+
+.python.geshifilter-python .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.python.geshifilter-python .br0 {
+    color: #000
+}
+
+.python.geshifilter-python .sy0 {
+    color: #6c6
+}
+
+.python.geshifilter-python .st0 {
+    color: #483d8b
+}
+
+.python.geshifilter-python .nu0 {
+    color: #ff4500
+}
+
+.python.geshifilter-python .me1 {
+    color: #000
+}
+
+.python.geshifilter-python .ln-xtra,
+.python.geshifilter-python li.ln-xtra,
+.python.geshifilter-python div.ln-xtra {
+    background-color: #ffc
+}
+
+.python.geshifilter-python span.xtra {
+    display: block
+}
+
+.sql.geshifilter-sql .de1,
+.sql.geshifilter-sql .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.sql.geshifilter-sql {
+    font-family: monospace
+}
+
+.sql.geshifilter-sql .imp {
+    font-weight: 700;
+    color: red
+}
+
+.sql.geshifilter-sql li,
+.sql.geshifilter-sql .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.sql.geshifilter-sql .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.sql.geshifilter-sql .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.sql.geshifilter-sql .kw1 {
+    color: #933;
+    font-weight: 700
+}
+
+.sql.geshifilter-sql .co1 {
+    color: gray;
+    font-style: italic
+}
+
+.sql.geshifilter-sql .coMULTI {
+    color: gray;
+    font-style: italic
+}
+
+.sql.geshifilter-sql .es0 {
+    color: #009;
+    font-weight: 700
+}
+
+.sql.geshifilter-sql .br0 {
+    color: #6c6
+}
+
+.sql.geshifilter-sql .sy0 {
+    color: #6c6
+}
+
+.sql.geshifilter-sql .st0 {
+    color: red
+}
+
+.sql.geshifilter-sql .nu0 {
+    color: #c6c
+}
+
+.sql.geshifilter-sql .ln-xtra,
+.sql.geshifilter-sql li.ln-xtra,
+.sql.geshifilter-sql div.ln-xtra {
+    background-color: #ffc
+}
+
+.sql.geshifilter-sql span.xtra {
+    display: block
+}
+
+.vb.geshifilter-vb .de1,
+.vb.geshifilter-vb .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.vb.geshifilter-vb {
+    font-family: monospace
+}
+
+.vb.geshifilter-vb .imp {
+    font-weight: 700;
+    color: red
+}
+
+.vb.geshifilter-vb li,
+.vb.geshifilter-vb .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.vb.geshifilter-vb .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.vb.geshifilter-vb .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.vb.geshifilter-vb .kw1 {
+    color: #f660ab;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .kw2 {
+    color: #e56717;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .kw3 {
+    color: #8d38c9;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .kw4 {
+    color: #151b8d;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .kw5 {
+    color: #00c2ff;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .kw6 {
+    color: #3ea99f;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .co1 {
+    color: green
+}
+
+.vb.geshifilter-vb .es0 {
+    color: maroon;
+    font-weight: 700
+}
+
+.vb.geshifilter-vb .st0 {
+    color: maroon
+}
+
+.vb.geshifilter-vb .ln-xtra,
+.vb.geshifilter-vb li.ln-xtra,
+.vb.geshifilter-vb div.ln-xtra {
+    background-color: #ffc
+}
+
+.vb.geshifilter-vb span.xtra {
+    display: block
+}
+
+.vbnet.geshifilter-vbnet .de1,
+.vbnet.geshifilter-vbnet .de2 {
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal
+}
+
+.vbnet.geshifilter-vbnet {
+    font-family: monospace
+}
+
+.vbnet.geshifilter-vbnet .imp {
+    font-weight: 700;
+    color: red
+}
+
+.vbnet.geshifilter-vbnet li,
+.vbnet.geshifilter-vbnet .li1 {
+    font-family: monospace;
+    font-weight: 400
+}
+
+.vbnet.geshifilter-vbnet .ln {
+    width: 1px;
+    text-align: right;
+    margin: 0;
+    padding: 0 2px;
+    vertical-align: top
+}
+
+.vbnet.geshifilter-vbnet .li2 {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: italic
+}
+
+.vbnet.geshifilter-vbnet .kw1 {
+    color: #00f;
+    font-weight: 700
+}
+
+.vbnet.geshifilter-vbnet .kw2 {
+    color: #6a5acd
+}
+
+.vbnet.geshifilter-vbnet .kw3 {
+    color: #6a5acd;
+    font-weight: 700
+}
+
+.vbnet.geshifilter-vbnet .kw4 {
+    color: #cd6a5a
+}
+
+.vbnet.geshifilter-vbnet .kw5 {
+    color: #cd6a5a;
+    font-weight: 700
+}
+
+.vbnet.geshifilter-vbnet .kw7 {
+    color: #006
+}
+
+.vbnet.geshifilter-vbnet .co1 {
+    color: green;
+    font-style: italic
+}
+
+.vbnet.geshifilter-vbnet .coMULTI {
+    color: green;
+    font-style: italic
+}
+
+.vbnet.geshifilter-vbnet .es0 {
+    color: teal;
+    font-weight: 700
+}
+
+.vbnet.geshifilter-vbnet .br0 {
+    color: #000
+}
+
+.vbnet.geshifilter-vbnet .sy0 {
+    color: #000
+}
+
+.vbnet.geshifilter-vbnet .st0 {
+    color: brown;
+    back-color: #fffacd
+}
+
+.vbnet.geshifilter-vbnet .nu0 {
+    color: brown;
+    back-color: #fffacd
+}
+
+.vbnet.geshifilter-vbnet .me1 {
+    color: #000
+}
+
+.vbnet.geshifilter-vbnet .ln-xtra,
+.vbnet.geshifilter-vbnet li.ln-xtra,
+.vbnet.geshifilter-vbnet div.ln-xtra {
+    background-color: #ffc
+}
+
+.vbnet.geshifilter-vbnet span.xtra {
+    display: block
+}
